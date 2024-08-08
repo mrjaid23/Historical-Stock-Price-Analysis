@@ -14,7 +14,7 @@ This repository contains a PowerBI dashboard project created to showcase my anal
 
 
 ## Data
-The data used in this project is sourced from [source of data](https://github.com/mrjaid23/SuperStores-Monthly-Sales-Dashboard/blob/de89c096a20859541bdfebebe33ba4d9aba51f8a/PowerBI_SuperstoreSales%20-%20with%20missing%20data.xlsx).
+The data used in this project is sourced from [source of data](https://github.com/mrjaid23/Historical-Stock-Price-Analysis/blob/639e5411846e83b06ff09522a67d2cd79290715c/file.zip)
 
 ## Tools Used
 - Power Query : For data cleaning and accuracy.
